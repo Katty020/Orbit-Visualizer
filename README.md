@@ -1,6 +1,25 @@
 # Orbit Visualizer
 
-A fullscreen, interactive orbit art playground built with Pygame. Create glowing planets, tune time, and capture cosmic screenshots.
+Orbit Visualizer is a fullscreen, interactive orbit art playground built with Pygame. Create glowing planets, paint trails, and compose orbital patterns in real time. It is designed to be simple to run, fun to explore, and visually impressive for demos and showcases.
+
+## Highlights
+
+- Glowing planets with dynamic trails and orbit rings
+- Starfield background with subtle twinkle
+- Time control for slow motion or fast motion
+- HUD overlay with live stats and shortcuts
+- Screenshot capture for saving your best scenes
+
+## Requirements
+
+- Python 3.9+
+- Pygame
+
+Install Pygame if needed:
+
+```bash
+pip install pygame
+```
 
 ## Run
 
@@ -23,3 +42,18 @@ python main.py
 - S: screenshot (saved to images/)
 - +/-: speed up/down
 - Q: quit
+
+## Tips
+
+- Add several planets at different radii, then increase time for dramatic curves.
+- Toggle trails off and on to compare clean orbits with painterly motion.
+- Use pause to fine-tune a composition before taking a screenshot.
+
+## Project Notes
+
+- The app runs fullscreen by default.
+- Screenshots are saved to the images/ folder with timestamps.
+
+## Credits
+
+Created as a visual physics art project using Pygame.
