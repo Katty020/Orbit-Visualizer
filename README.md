@@ -49,11 +49,3 @@ python main.py
 - Toggle trails off and on to compare clean orbits with painterly motion.
 - Use pause to fine-tune a composition before taking a screenshot.
 
-## Project Notes
-
-- The app runs fullscreen by default.
-- Screenshots are saved to the images/ folder with timestamps.
-
-## Credits
-
-Created as a visual physics art project using Pygame.
