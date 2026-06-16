@@ -7,7 +7,7 @@ from datetime import datetime
 
 pygame.init()
 screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
-pygame.display.set_caption("Orbit Visualizer")
+pygame.display.set_caption("Orbit Visualizers")
 
 width = screen.get_width()
 height = screen.get_height()
